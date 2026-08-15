@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Floorp
+Comment=Browse the web with a customizable Firefox-based browser.
+Exec=floorp %U
+Icon=floorp
+Terminal=false
+Categories=Network;WebBrowser;
