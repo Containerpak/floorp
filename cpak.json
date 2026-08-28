@@ -3,7 +3,7 @@
   "manifest_version": "3.0",
   "name": "Floorp",
   "description": "Browse the web with a customizable Firefox-based browser.",
-  "version": "12.17.0",
+  "version": "12.17.1",
   "image": "ghcr.io/containerpak/floorp@sha256:26ee87946049b641271bf6d47e9a94337addcebbf0ec766346621fe17e46de0b",
   "binaries": [
     "/usr/bin/floorp"

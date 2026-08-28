@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:9b2c1bbe985f02a009d8b5294ced411ddf2ff1c9c3b5d83e857635222693c890 https://github.com/Floorp-Projects/Floorp/releases/download/v12.17.0/floorp-linux-x86_64.tar.xz /tmp/app.tar.xz
+ADD --checksum=sha256:db68ff2857f6f5dce83ed1903309a54503269a3829569f08ddaf629d77d428ee https://github.com/Floorp-Projects/Floorp/releases/download/v12.17.1/floorp-linux-x86_64.tar.xz /tmp/app.tar.xz
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends xz-utils && \
