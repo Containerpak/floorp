@@ -4,7 +4,7 @@
   "name": "Floorp",
   "description": "Browse the web with a customizable Firefox-based browser.",
   "version": "12.17.2",
-  "image": "ghcr.io/containerpak/floorp@sha256:01c33858f473e16865bfe0f5d2fc8e8d15de2901d2b2a2f1a7b26abfda75f8da",
+  "image": "ghcr.io/containerpak/floorp@sha256:89735be631ce63e472abe659f87d09243c51ebcf3371884ddeba58585dc0d582",
   "binaries": [
     "/usr/bin/floorp"
   ],
